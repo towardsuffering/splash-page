@@ -67,7 +67,7 @@ a {
 /* Typography */
 
 h1 {
-  font-size: var(--step-5);
+  font-size: var(--step-3);
   font-family: var(--font-family-heading);
   font-weight: 600;
   line-height: 1.2;
